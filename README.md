@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Csl
+- 👋 Hi, I’m @Shilin
 - 👀 I’m interested in ultrasonic guided wave
 - 🌱 I’m currently learning structural health monitoring
 - 💞️ I’m looking to collaborate on developing an ultrasonic guided wave testing platform
